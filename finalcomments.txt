@@ -1,0 +1,11 @@
+Comments
+You have some comments present, and I believe they are meaningful markers to you about the sounds you're playing. However, they don't do the work of leaving meaningful markers about the kind of work each section is doing as part of the overall.
+
+Code Quality
+The code is simple, but it does what it needs to do. I do think you missed the chance to write a function that would have saved you a bit of typing.
+
+Ambition
+There's no README here, so it's hard to get a full picture of the ambition of this piece. However, I think I get the sense of what a longer project might look like and where this bit fits in.
+
+Aesthetics
+This is a fun little project to play with. There are some ways in which the user experience could be improved (ability to play multiple sounds, for example), but overall this was a fun project to play with.
